@@ -63,7 +63,9 @@ endmodule
 ![exp091](https://github.com/user-attachments/assets/d71e55de-f424-481f-893d-1378295055a5)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![exp092](https://github.com/user-attachments/assets/a1460807-a1ed-4762-ab0d-b2f15fb22c01)
+
+![436045855-a1460807-a1ed-4762-ab0d-b2f15fb22c01](https://github.com/user-attachments/assets/94adee97-4c88-4d18-9660-3cf08447a879)
+
 
 **RESULTS**
 Thus T flipflop using verilog and validating their functionality using their functional tables is verified.
