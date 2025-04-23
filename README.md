@@ -38,6 +38,12 @@ From the above characteristic table, we can directly write the next state equati
 
 5.For different input combinations generate the timing diagram
 **PROGRAM**
+
+/* 
+Program for flipflops and verify its truth table in quartus using Verilog programming. 
+Developed by: RegisterNumber: 212223110058 
+*/
+
 ```
 module exp9T(T,clk,Q,Qbar);
 input T,clk;
@@ -52,9 +58,6 @@ Qbar=~Q;
 end
 endmodule
 ```
-Developed by:Ramsanjay C
-RegisterNumber:212224220077
-*/
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![exp091](https://github.com/user-attachments/assets/d71e55de-f424-481f-893d-1378295055a5)
