@@ -37,6 +37,8 @@ From the above characteristic table, we can directly write the next state equati
 4.Create nodes for inputs and outputs to generate the timing diagram.
 
 5.For different input combinations generate the timing diagram
+
+
 **PROGRAM**
 
 /* 
